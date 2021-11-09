@@ -1,12 +1,4 @@
 # TAREA
 
 
-
-
-
-
-
-
-
-
-[![ejer-1.jpg](https://i.postimg.cc/B6YKh8pG/ejer-1.jpg)](https://postimg.cc/9R900Qsx)
+![1](https://user-images.githubusercontent.com/93899422/140867392-2b896063-d425-43bf-8bb0-7f97c558e81d.jpg)
