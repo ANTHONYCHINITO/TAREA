@@ -9,6 +9,7 @@ OBJETIVOS
 -Analizar la relación entre voltaje, intensidad y resistencia presentes en un circuito eléctrico.
 
 MARCO TEORICO
+
 Unidades de medición
 
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
