@@ -20,7 +20,18 @@ Cantidades eléctricas y unidades derivadas con símbolos SI.
 
 |Cantidad|Símbolo|Unidad (SI)|Símbolo |
 |--------|--------|----------|--------|
-|
+|Capacitancia|C|Faradio	|F|
+|Carga|	Q	|Coulomb|C|
+|Conductancia|G|Siemens|S|
+|Energía|W|Joule|J|
+|Frecuencia|f|Hertz|Hz|
+|Impedancia|Z|Ohm|Ω|
+|Inductancia|L|Henry|H|
+|Potencia|P|Watt|W|
+|Reactancia|X|Ohm|Ω|
+|Resistencia|R|Ohm|Ω|
+|Voltaje|V|Ohm|V|
+
 
 
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
