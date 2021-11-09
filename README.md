@@ -10,7 +10,7 @@ OBJETIVOS
 
 MARCO TEORICO
 Unidades de medición
-![]https://github.com/ANTHONYCHINITO/TAREA/blob/main/JPG/png%20(1).png
+
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 ![1](https://user-images.githubusercontent.com/93899422/140867392-2b896063-d425-43bf-8bb0-7f97c558e81d.jpg)
