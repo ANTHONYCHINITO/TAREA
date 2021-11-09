@@ -32,6 +32,16 @@ Cantidades eléctricas y unidades derivadas con símbolos SI.
 |Resistencia|R|Ohm|Ω|
 |Voltaje|V|Ohm|V|
 
+Cantidades magnéticas y unidades derivadas con símbolos SI.
+
+|Cantidad|Símbolo|Unidad (SI)|Símbolo|
+|---------|-------|----------|-------|
+|Intensidad de campo magnético|	H	|Ampere |vueltas/metro|	At/m|
+Flujo magnético	Φ	Weber	Wb
+Densidad de flujo magnético	B	Tesla	T
+Fuerza magnetomotriz	Fm	Ampere-vuelta	At
+Permeabilidad	µ	Weber/ampere-vuelta metro	Wb/At m
+Reluctancia	R	Ampere-vueltas/weber	At/Wb
 
 
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
