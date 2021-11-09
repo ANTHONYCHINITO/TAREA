@@ -1,8 +1,11 @@
 # TAREA
 
 OBJETIVOS
+
 Comprender el funcionamiento de un circuito eléctrico básico.
+
 Determinar las partes esenciales de un circuito.
+
 Analizar la relación entre voltaje, intensidad y resistencia presentes en un circuito eléctrico.
 
 MARCO TEORICO
