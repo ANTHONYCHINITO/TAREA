@@ -62,11 +62,19 @@ tera T 10 un billón 12
 
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-![1](https://user-images.githubusercontent.com/93899422/140867392-2b896063-d425-43bf-8bb0-7f97c558e81d.jpg)
+CAPITULO N°1
 
-![2](https://user-images.githubusercontent.com/93899422/140867787-c9a90762-1667-4e26-a05e-749929e9280c.jpg)
+![PARTE 1 CIRCUITOS_Página_1](https://user-images.githubusercontent.com/93899422/141045365-7644d0e6-2167-45fb-9bf4-9f7a2f09ec47.png)
+![PARTE 1 CIRCUITOS_Página_2](https://user-images.githubusercontent.com/93899422/141045415-7b57aab6-cd8f-44d8-9fb6-b6ed15144d75.png)
 
+CAPITULO N°2
 
+![PARTE 2 CIRCUITOS_Página_1](https://user-images.githubusercontent.com/93899422/141045459-bb630b1d-d799-475e-bc0a-8037cdd72db3.png)
+![PARTE 2 CIRCUITOS_Página_2](https://user-images.githubusercontent.com/93899422/141045463-f8b53ae0-592a-4334-9715-cdcf89ea258f.png)
+![PARTE 2 CIRCUITOS_Página_3](https://user-images.githubusercontent.com/93899422/141045465-2f0519bc-8ea3-450c-95b5-84c30ae20018.png)
+![PARTE 2 CIRCUITOS_Página_4](https://user-images.githubusercontent.com/93899422/141045466-31135922-bd61-4378-904b-554662245749.png)
+![PARTE 2 CIRCUITOS_Página_5](https://user-images.githubusercontent.com/93899422/141045467-aacaef61-9fe4-47d3-b90b-62f6e0c37f65.png)
+![PARTE 2 CIRCUITOS_Página_6](https://user-images.githubusercontent.com/93899422/141045468-f0eb0230-d9f4-4ba7-9703-6b2ad1fabcd3.png)
 
 VIDEO
 
