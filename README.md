@@ -43,6 +43,9 @@ Cantidades magnéticas y unidades derivadas con símbolos SI.
 |Permeabilidad|	µ	|Weber/ampere-vuelta metro|	Wb/At m|
 |Reluctancia|	R	|Ampere-vueltas/weber|	At/Wb|
 
+Notación De Ingeniería Y Prefijos Métricos
+
+ ![](https://github.com/ANTHONYCHINITO/TAREA/blob/main/JPG/png%203.png)
 
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
