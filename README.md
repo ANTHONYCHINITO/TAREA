@@ -49,6 +49,7 @@ Notación De Ingeniería Y Prefijos Métricos
 
 Prefijos métricos con sus símbolos, sus potencias de diez y sus valores
 
+|PREFIJOS MÉTRICOS |SÍMBOLO |POTENCIA DE DIEZ |VALOR
 femto f un 10^-15 mil billonésimo 
 pico p un billonésimo
 nano n un mil millonésimo
