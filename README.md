@@ -47,9 +47,18 @@ Notación De Ingeniería Y Prefijos Métricos
 
  ![](https://github.com/ANTHONYCHINITO/TAREA/blob/main/JPG/png%203.png)
 
-Prefijos métricos con sus
-símbolos, sus potencias de
-diez y sus valores
+Prefijos métricos con sus símbolos, sus potencias de diez y sus valores
+
+femto f un 10^-15 mil billonésimo
+pico p un billonésimo
+nano n un mil millonésimo
+micro un millonésimo
+mili m un milésimo
+kilo k un mil
+mega M un millón
+giga G un mil millones
+tera T 10 un billón 12
+
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 ![1](https://user-images.githubusercontent.com/93899422/140867392-2b896063-d425-43bf-8bb0-7f97c558e81d.jpg)
