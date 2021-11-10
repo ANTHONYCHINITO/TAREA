@@ -80,6 +80,12 @@ VIDEO
 
 CONCLUSIONES
 
+En conclusión, en el capítulo uno, se pudo tomar en cuenta la importancia de tener conocimientos básicos sobre los temas de Unidades de Medición, notación científica, etc. ya que aquellos conocimientos nos podrán ser útiles en el futuro sobre cualquier proyecto.
+
+Por otro lado, en el capítulo dos se concluyó que aquellos conocimientos como por eje: Estructura Atómica, Carga Eléctrica, etc. son bastantes útiles en cuanto a practicas ya que nos guía y específica sobre materiales y ciertos problemas a solucionar.
+
+
+
 BIBLIOGRAFÍA
 
 
