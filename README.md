@@ -68,7 +68,7 @@ Conversiones De Unidades Métricas.
 ![](https://github.com/ANTHONYCHINITO/TAREA/blob/main/JPG/png%204.png)
 
 Unidad 2
-
+![](https://github.com/ANTHONYCHINITO/TAREA/blob/main/JPG/png%205.png)
 
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
