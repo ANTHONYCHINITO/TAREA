@@ -2,7 +2,7 @@
 
 OBJETIVOS
 
--Comprender el funcionamiento de un circuito eléctrico básico.
+-Comprender el funcionamiento de un circuito eléctrico básico, 
 
 -Determinar las partes esenciales de un circuito.
 
@@ -78,6 +78,9 @@ CAPITULO N°2
 ![PARTE 2 CIRCUITOS_Página_6](https://user-images.githubusercontent.com/93899422/141045468-f0eb0230-d9f4-4ba7-9703-6b2ad1fabcd3.png)
 
 VIDEO
+
+https://youtu.be/h9ZXTQZIIc8
+
 
 CONCLUSIONES
 
