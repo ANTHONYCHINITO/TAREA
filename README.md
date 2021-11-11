@@ -60,6 +60,9 @@ Prefijos métricos con sus símbolos, sus potencias de diez y sus valores
 |mega |M |10^6|un millón|
 |giga |G|10^9 |un mil millones|
 |tera |T |10^12|un billón|
+Conversiones De Unidades Métricas.
+
+![](https://github.com/ANTHONYCHINITO/TAREA/blob/main/JPG/png%204.png)
 
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
