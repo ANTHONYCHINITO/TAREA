@@ -2,9 +2,9 @@
 
 OBJETIVOS
 
--Comprender el funcionamiento de un circuito eléctrico básico, 
+-Aplicar el uso de  la notaciòn científica, de ingenieria y prefijos métricos en resultados demasiados pequeños o grandes.
 
--Determinar las partes esenciales de un circuito.
+-Poder generar 
 
 -Analizar la relación entre voltaje, intensidad y resistencia presentes en un circuito eléctrico.
 
