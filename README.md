@@ -1,12 +1,14 @@
 # TAREA
 
+Objetivo General 
+
+-Identificar los conceptos tecnicos acerca de los capitulos 1 y 2 del libro 5 Principios de circuitos electricos Floyd,mediante la utilizacion de mapas memtales y la resolucion de ejercicios practicos ya que esto permitira una mejor experiencia como pilar del conocimeinto  acerca de la materia de circuitos electricos  
+
 OBJETIVOS
 
--Aplicar el uso de  la notaciòn científica, de ingenieria y prefijos métricos en resultados demasiados pequeños o grandes.
+-Aplicar el uso de la notaciòn científica, de ingenieria y prefijos métricos en resultados demasiados pequeños o grandes para asi manejar mejores resultados en la practica.
 
--Diferenciar y comprender los conceptos de voltaje,resistencia y corriente.
-
-
+-Diferenciar y comprender los conceptos de voltaje,resistencia y corriente mediante el conociemiento requerido para comprender los principios de los circuitos 
 
 MARCO TEORICO
 
