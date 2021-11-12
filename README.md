@@ -74,6 +74,7 @@ Unidad 2
 ![](https://github.com/ANTHONYCHINITO/TAREA/blob/main/JPG/png%207.png)
 ![](https://github.com/ANTHONYCHINITO/TAREA/blob/main/JPG/png%208.png)
 ![](https://github.com/ANTHONYCHINITO/TAREA/blob/main/JPG/png%209.png)
+![](https://github.com/ANTHONYCHINITO/TAREA/blob/main/JPG/png%2010.png)
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 CAPITULO N°1
