@@ -4,9 +4,9 @@ OBJETIVOS
 
 -Aplicar el uso de  la notaciòn científica, de ingenieria y prefijos métricos en resultados demasiados pequeños o grandes.
 
--Poder generar 
+-Diferenciar y comprender los conceptos de voltaje,resistencia y corriente.
 
--Analizar la relación entre voltaje, intensidad y resistencia presentes en un circuito eléctrico.
+
 
 MARCO TEORICO
 
