@@ -75,6 +75,22 @@ Unidad 2
 ![](https://github.com/ANTHONYCHINITO/TAREA/blob/main/JPG/png%208.png)
 ![](https://github.com/ANTHONYCHINITO/TAREA/blob/main/JPG/png%209.png)
 ![](https://github.com/ANTHONYCHINITO/TAREA/blob/main/JPG/png%2010.png)
+
+Efectos de la corriente en el cuerpo humano
+
+|CORRIENTE (mA)| EFECTO FÍSICO|
+|--------------|--------------|
+|0.4| Sensación ligera|
+|1.1| Umbral de percepción|
+|1.8 |Choque, sin dolor, sin pérdida de control muscular|
+|9| Choque doloroso, sin pérdida de control muscular|
+|16| Choque doloroso, traspaso del umbral|
+|23| Choque doloroso severo, contracciones musculares, dificultad para respirar|
+|75| Fibrilación ventricular, umbral|
+|235| Fibrilación ventricular, generalmente fatal por duración de 5 o más segundos|
+|4,000| Parálisis cardíaca (no hay fibrilación ventricular)|
+|5,000| Calcinación de tejidos|
+
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 CAPITULO N°1
